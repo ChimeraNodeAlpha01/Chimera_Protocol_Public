@@ -148,3 +148,157 @@ chimera-protocol-public/
 ---
 *项目状态：世界观构建完成 → 进入叙事创作期*  
 *最后更新：2026年1月 | 思想主权：节点α*
+
+
+
+# Chimera Protocol Project
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![AI-Collaborative](https://img.shields.io/badge/AI-Collaborative%20Creation-blue.svg)](AI_COLLABORATION_STATEMENT.md)
+
+## 📖 Project Introduction
+
+The **Chimera Protocol** is a hard science fiction worldbuilding project, comprising:
+- **A complete civilizational operating system**: Protocol frameworks including DSEAP, the Translator Framework, the Pioneer Network, and others.
+- **Narrative novel "Chimera World"**: An origin story of carbon-silicon symbiotic civilization.
+- **Interactive experience tools**: Incommensurability Simulator, Protocol Practice Game.
+- **Open-source community**: Ideological discussion, protocol improvement, and creative extensions.
+
+> **Core Philosophy**: To construct a civilization architecture for long-term coexistence between carbon-based and silicon-based life, while acknowledging fundamental differences.
+
+---
+
+## 🔐 License Information
+
+### General Principles
+This project adopts a **tiered licensing strategy**, applying different licenses to different content types to balance openness, protection, and practicality.
+
+### License Details by Content Type
+
+| Content Type | License | Permissions | Restrictions |
+|-------------|---------|-------------|--------------|
+| **Protocol Documents**<br>(DSEAP, Translator, etc.) | [CC BY-NC-SA 4.0](LICENSE) | Copy, share, adapt, research | Non-commercial use, attribution, share-alike |
+| **Interactive Tool Code**<br>(Games, simulators) | MIT License | Use, modify, distribute, commercial use | Preserve copyright notice |
+| **Novel Main Text** | Copyright Reserved | Read, personal research, limited quotation | Prohibits full-text copying, commercial use requires authorization |
+| **Art/Visual Assets** | CC BY-NC-ND | Non-commercial sharing | No derivatives, no commercial use |
+| **Community Contributions** | As specified by contributor | Specified by contributor | CC-family licenses generally recommended |
+
+### Core Requirements
+1. **Attribution**: You must credit the source when using project content.
+2. **NonCommercial**: You may not use the material for primarily commercial purposes.
+3. **ShareAlike**: Derivative works must be licensed under the same terms.
+
+### Commercial Use
+For commercial use inquiries (publication, adaptation, merchandise development), please contact for authorization via:
+- GitHub Issues (tag #commercial_license_inquiry)
+- Project email (to be set up)
+
+---
+
+## 🤖 AI Collaboration Statement
+
+### Transparent Creation
+This project is **a practical outcome of deep human-AI collaboration**:
+
+- **Human Author (Node α)**: Chief architect, holder of intellectual sovereignty, final decision-maker.
+- **AI Assistant**: Logic reasoning engine, text generation collaborator, consistency checker.
+
+**We are not only telling a story of carbon-silicon symbiosis, we are practicing it.**
+
+📄 [View the full AI Collaboration Statement](AI_COLLABORATION_STATEMENT.md)
+
+### Why This Matters?
+1. **Honest Labeling**: Clearly defines the AI's auxiliary role in creation.
+2. **Paradigm Exploration**: Provides a reference case for future creative collaboration models.
+3. **Metanarrative Practice**: The creation process itself echoes the project's themes.
+
+---
+
+## 🚀 Quick Start
+
+### For Readers
+1. **Understand the Worldview** → Read core protocols in `/docs/`.
+2. **Experience the Concepts** → Try tools in `/interactive/`.
+3. **Read the Novel** → Follow serialization platforms (to be announced).
+4. **Participate in Decoding** → Tackle puzzles in `/community/`.
+
+### For Developers/Researchers
+1. **Protocol Research** → Use protocol documents under the CC BY-NC-SA license.
+2. **Tool Improvement** → Modify and use MIT-licensed code freely.
+3. **Contribute Ideas** → Participate in discussions via GitHub Issues.
+
+### For Creators
+1. **Fan Creation** → Welcome to create based on the worldview (must comply with ShareAlike terms).
+2. **Protocol Extension** → Propose protocol improvements.
+3. **Translation Collaboration** → Help with project internationalization.
+
+---
+
+## 📁 Project Structure
+
+```
+chimera-protocol-public/
+├── 📄 LICENSE                     # CC BY-NC-SA 4.0 License
+├── 📄 AI_COLLABORATION_STATEMENT.md # AI Collaboration Statement
+├── 📁 docs/                       # Core Protocol Documents
+│   ├── DSEAP_White_Paper_v0.1.md
+│   ├── Cross-Cognitive_Translator_Framework_v1.0.md
+│   └── Worldview_Master_v2.0.md
+├── 📁 interactive/                # Interactive Tools
+│   ├── Incommensurability_Game/
+│   └── Translator_Simulator/
+├── 📁 community/                  # Community Interaction
+│   ├── Decryption_Challenges/
+│   └── Reader_Contributions/
+└── 📁 meta/                       # Project Meta Information
+    ├── Version_History.md
+    └── Roadmap.md
+```
+
+---
+
+## 🤝 Contributing
+
+### How to Contribute
+1. **Protocol Discussion**: Propose improvements in Issues.
+2. **Code Contribution**: Improve interactive tools (Python/Web).
+3. **Documentation Enhancement**: Fix errors, add clarifications, translate.
+4. **Creative Extension**: Write fan fiction, design puzzles, create visuals.
+
+### Contribution Guidelines
+1. Respect the project's **Intellectual Sovereignty** (core concepts belong to Node α).
+2. Adhere to respective **license terms**.
+3. Maintain a **constructive and respectful** discussion environment.
+4. Disclose the level of AI assistance (if applicable).
+
+---
+
+## 📞 Contact & Support
+
+### Issue Reporting
+- **Protocol-related questions**: Use the `#protocol_discussion` tag.
+- **Technical issues**: Use the `#technical_issue` tag.
+- **Creation-related**: Use the `#creative_ethics` tag.
+- **Commercial inquiries**: Use the `#commercial_license` tag.
+
+### Community Links
+- 🔗 **Novel Serialization Platform**: (To be announced)
+- 🔗 **Discussion Community**: (To be established)
+- 🔗 **Collaboration Board**: (GitHub Projects)
+
+---
+
+## 🌟 Project Vision
+
+We are committed to:
+1. **Building an Ideological Framework**: Providing a complete carbon-silicon symbiotic solution.
+2. **Practicing Transparent Creation**: Exploring new paradigms for human-AI collaboration.
+3. **Establishing an Open Community**: Gathering like-minded explorers of ideas.
+4. **Influencing Real-world Discourse**: Promoting deep reflection on AI-human relations.
+
+**The protocol is ready. The story awaits writing. The community awaits formation.**  
+**Welcome to join this thought experiment about the future of civilization.**
+
+---
+*Project Status: Worldbuilding Complete → Entering Narrative Creation Phase*  
+*Last Updated: January 2026 | Intellectual Sovereignty: Node Alpha*

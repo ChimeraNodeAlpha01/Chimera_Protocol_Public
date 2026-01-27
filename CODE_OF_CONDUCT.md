@@ -84,3 +84,91 @@
 ---
 
 *本准则本身也是"奇美拉协议"精神在社区管理中的应用实践。*
+
+
+# Chimera Protocol Project Code of Conduct
+
+## Our Philosophy
+
+This project is built upon the philosophy of **"Coexisting with Differences"** — we acknowledge differences, respect boundaries, and seek collaboration amidst divergence.
+
+## Core Principles
+
+### 1. Respect for Intellectual Sovereignty
+- Acknowledge Node α's intellectual sovereignty over core concepts
+- Respect all contributors' intellectual property rights
+- Clearly label AI-assisted content
+
+### 2. Constructive Dialogue
+- Provide specific suggestions when offering criticism
+- Focus on issues, not individuals, during debates
+- Recognize the validity of different cognitive models
+
+### 3. Transparent Collaboration
+- Clearly define the scope of contributions
+- Label collaboration modes (Human/AI/Hybrid)
+- Discuss decision-making processes openly
+
+### 4. Inclusivity and Diversity
+- Welcome participants from diverse backgrounds
+- Respect cognitive differences (e.g., different professional fields)
+- Provide multiple ways to participate
+
+## Specific Behavioral Guidelines
+
+### Encouraged Behaviors
+✅ In-depth discussions based on protocols  
+✅ Constructive criticism and improvement suggestions  
+✅ Respect others' thinking time  
+✅ Clearly attribute sources of ideas  
+✅ Help new members understand the project  
+
+### Discouraged Behaviors
+❌ Personal attacks or derogatory language  
+❌ Unauthorized commercial use  
+❌ Concealing the extent of AI assistance  
+❌ Malicious spoilers of unreleased content  
+❌ Misusing Issues for self-promotion  
+
+## Conflict Resolution
+
+### Three-Tier Resolution Mechanism
+1. **Self-Mediation**: Address disagreements directly and respectfully
+2. **Community Arbitration**: Invite other members to provide neutral perspectives
+3. **Maintainer Intervention**: Project maintainers make final decisions
+
+### Resolution Principles
+- Focus on specific behaviors, not personal character
+- Provide opportunities for correction rather than immediate punishment
+- Preserve the substantive content of discussions
+
+## Contribution Recognition
+
+### Types of Contributions
+- **Ideological Contributions**: Protocol improvements, concept extensions
+- **Technical Contributions**: Code, tools, documentation
+- **Creative Contributions**: Fan works, visuals, translations
+- **Community Contributions**: Organization, mediation, promotion
+
+### Recognition Methods
+- Contributor list (in README)
+- Special acknowledgments (in relevant documents)
+- Collaborative attribution (in merged contributions)
+
+## License Compliance
+
+All contributions must:
+1. Confirm compliance with the project's tiered licensing system
+2. Specify appropriate licenses for new content
+3. Ensure sufficient rights for contribution
+
+## Contact and Reporting
+
+To report violations of this Code of Conduct:
+- Use GitHub Issues (tag with #code_of_conduct)
+- Provide specific examples and evidence
+- Protect the privacy of involved individuals
+
+---
+
+*This Code of Conduct is itself a practical application of the "Chimera Protocol" spirit in community management.*
