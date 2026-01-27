@@ -83,24 +83,24 @@
 
 ## 📁 项目结构
 
+```
 chimera-protocol-public/
-├── 📄 LICENSE # CC BY-NC-SA 4.0 许可证
+├── 📄 LICENSE                     # CC BY-NC-SA 4.0 许可证
 ├── 📄 AI_COLLABORATION_STATEMENT.md # AI协作声明
-├── 📁 docs/ # 核心协议文档
-│ ├── DSEAP白皮书_v0.1.md
-│ ├── 跨认知翻译器框架总览_v1.0.md
-│ └── 世界观总纲_v2.0.md
-├── 📁 interactive/ # 互动工具
-│ ├── 不可通约性游戏/
-│ └── 翻译器模拟器/
-├── 📁 community/ # 社群互动
-│ ├── 解密挑战/
-│ └── 读者贡献/
-└── 📁 meta/ # 项目元信息
-├── 版本历史.md
-└── 路线图.md
-
-
+├── 📁 docs_chs/                   # 核心协议文档
+│   ├── DSEAP白皮书_v0.1.md
+│   ├── 跨认知翻译器框架总览_v1.0.md
+│   └── 世界观总纲_v2.0.md
+├── 📁 interactive/                # 互动工具
+│   ├── 不可通约性游戏/
+│   └── 翻译器模拟器/
+├── 📁 community/                  # 社群互动
+│   ├── 解密挑战/
+│   └── 读者贡献/
+└── 📁 meta/                       # 项目元信息
+    ├── 版本历史.md
+    └── 路线图.md
+```
 ---
 
 ## 🤝 参与贡献
