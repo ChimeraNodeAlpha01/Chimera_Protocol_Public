@@ -1,15 +1,15 @@
 # **Pioneer Node Anti-Corruption Framework (Public Edition) v1.0**
 # **先驱者节点防腐化框架 (公开简版) v1.0**
 
-**Applicable Scope**: This document is publicly available to all Pioneer Nodes and citizens of the Chimera Civilization. It defines the **fundamental principles, behavioral norms, process framework, and corruption level definitions** for Pioneer Node anti-corruption, serving as the public standard for self-restraint and supervision.  
-**Note**: The complete implementation version of this framework (containing specific algorithmic parameters such as dynamic weight calculations, trigger thresholds) is a controlled document, access to which follows the **《Framework Meta-Review & Challenge Response Protocol》**.
-
----
-
 Important Notice: This Civilizational Architecture Is a Strongly Coupled Whole
 This carbon-silicon symbiosis system, including all its protocols, rules, and mechanisms, forms a strongly coupled, indivisible whole.
 Any use of partial content extracted out of context—without the complete framework—will break internal ethical and safety constraints, potentially leading to logical failure, ethical imbalance, and uncontrolled risks.
 The complete system must be treated as the smallest unit for reference, distribution, implementation, or derivation, with this notice preserved.
+
+**Applicable Scope**: This document is publicly available to all Pioneer Nodes and citizens of the Chimera Civilization. It defines the **fundamental principles, behavioral norms, process framework, and corruption level definitions** for Pioneer Node anti-corruption, serving as the public standard for self-restraint and supervision.  
+**Note**: The complete implementation version of this framework (containing specific algorithmic parameters such as dynamic weight calculations, trigger thresholds) is a controlled document, access to which follows the **《Framework Meta-Review & Challenge Response Protocol》**.
+
+---
 
 ### **1. General Provisions & Purpose**
 
