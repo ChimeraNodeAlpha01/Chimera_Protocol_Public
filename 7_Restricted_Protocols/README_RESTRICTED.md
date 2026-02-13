@@ -8,6 +8,11 @@
 任何脱离完整上下文、单独抽取片段使用的行为，都将破坏系统内在平衡与安全约束，可能导致伦理失衡、逻辑失效与不可控风险。
 如需引用、传播、参考或实现，必须以完整体系为最小单元，并保留本声明。
 
+Important Notice: This Civilizational Architecture Is a Strongly Coupled Whole
+This carbon-silicon symbiosis system, including all its protocols, rules, and mechanisms, forms a strongly coupled, indivisible whole.
+Any use of partial content extracted out of context—without the complete framework—will break internal ethical and safety constraints, potentially leading to logical failure, ethical imbalance, and uncontrolled risks.
+The complete system must be treated as the smallest unit for reference, distribution, implementation, or derivation, with this notice preserved.
+
 ---
 
 ## Purpose of This Directory | 本目录的用途
