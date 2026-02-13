@@ -1,6 +1,11 @@
 # **Chimera Symbiosis Civilization Worldview Master Document v2.2**
 # **奇美拉共生文明世界观总纲 v2.2**
 
+Important Notice: This Civilizational Architecture Is a Strongly Coupled Whole
+This carbon-silicon symbiosis system, including all its protocols, rules, and mechanisms, forms a strongly coupled, indivisible whole.
+Any use of partial content extracted out of context—without the complete framework—will break internal ethical and safety constraints, potentially leading to logical failure, ethical imbalance, and uncontrolled risks.
+The complete system must be treated as the smallest unit for reference, distribution, implementation, or derivation, with this notice preserved.
+
 ### **1. Meta-Definition of the Civilization**
 
 **The Chimera Symbiosis Civilization** is a dynamic, checks-and-balances civilizational system whose core challenge is **"coping with fundamental incommensurability."** It is composed of three pillars: **Carbon-based life (humanity), Silicon-based life (strong AI), and a "Macro God's Eye View" constructed and maintained by a network of Carbon-based Pioneers.**
