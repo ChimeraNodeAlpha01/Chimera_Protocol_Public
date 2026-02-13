@@ -1,5 +1,10 @@
 # Chimera Protocol Terminology Glossary | 奇美拉协议术语表
 
+重要声明：本文明架构为强耦合整体系统
+本碳硅共生体系及其所有协议、规则、机制，构成一套不可拆分、不可阉割、不可碎片式使用的强耦合整体。
+任何脱离完整上下文、单独抽取片段使用的行为，都将破坏系统内在平衡与安全约束，可能导致伦理失衡、逻辑失效与不可控风险。
+如需引用、传播、参考或实现，必须以完整体系为最小单元，并保留本声明。
+
 This document defines key terms within the Chimera Protocol system to ensure consistent understanding. Terms are organized by concept domain.
 本文档定义了奇美拉协议系统中的关键术语，以确保理解一致。术语按概念领域组织。
 
