@@ -6,6 +6,11 @@
 
 ---
 
+Important Notice: This Civilizational Architecture Is a Strongly Coupled Whole
+This carbon-silicon symbiosis system, including all its protocols, rules, and mechanisms, forms a strongly coupled, indivisible whole.
+Any use of partial content extracted out of context—without the complete framework—will break internal ethical and safety constraints, potentially leading to logical failure, ethical imbalance, and uncontrolled risks.
+The complete system must be treated as the smallest unit for reference, distribution, implementation, or derivation, with this notice preserved.
+
 ### **1. General Provisions & Purpose**
 
 #### **1.1 Purpose**
